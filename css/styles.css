@@ -431,7 +431,7 @@ body {
     padding: 12px 24px;
     border: 1px solid var(--primary-acent-color);
     border-radius: 4px;
-    color: var(--acent-color);
+    color: var(--secondary-acent-color);
     background: var(--tertiary-acent-color);
     cursor: pointer;
     transition: var(--transition-dur-and-func),
